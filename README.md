@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raremote
 - 👀 I’m interested in CI/CD, Security, Web Dev, and Scripting
 - 🌱 I’m currently learning anything worth learning
-- 💞️ I’m looking to collaborate on Spigot Plugins
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
