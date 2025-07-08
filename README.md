@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raremote
-- 👀 I’m interested in CI/CD, Security, Web Dev, and Scripting
+- 👀 I’m interested in CI/CD, Security, Spigot, Full Stack, etc...
 - 🌱 I’m currently learning anything worth learning
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
